@@ -1,0 +1,11 @@
+{
+  "name": "country-data",
+  "version": "0.0.3",
+  "type": "module",
+  "description": "",
+  "license": "",
+  "author": "Arnott Ferels",
+  "scripts": {
+    "start": "node parser.js"
+  }
+}

@@ -42,7 +42,7 @@
   {
     "country": "Antarctica",
     "id": "AQ",
-    "capital": "No permanent settlements"
+    "capital": ""
   },
   {
     "country": "Antigua and Barbuda",
@@ -147,7 +147,7 @@
   {
     "country": "Bouvet Island",
     "id": "BV",
-    "capital": "No permanent settlements"
+    "capital": ""
   },
   {
     "country": "Brazil",
@@ -472,7 +472,7 @@
   {
     "country": "Heard Island and McDonald Islands",
     "id": "HM",
-    "capital": "No permanent settlements"
+    "capital": ""
   },
   {
     "country": "Holy See (Vatican City State)",
@@ -1158,7 +1158,7 @@
   {
     "country": "United States Minor Outlying Islands",
     "id": "UM",
-    "capital": "No specific capital"
+    "capital": ""
   },
   {
     "country": "Uruguay",
